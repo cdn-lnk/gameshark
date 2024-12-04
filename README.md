@@ -1,5 +1,7 @@
 # gameshark
 
+https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_data_structure_(Generation_II)
+
 - 01??DFDC : species
 - 01??E0DC : item
 - 01??E1DC : move 1
